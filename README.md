@@ -1,4 +1,7 @@
-# Webapp_for_RVR_Chatbot
+# Webapp_for_NITK_Chatbot
+
+![Preview]()
+
 
 First, use pip to install requirements.txt (in your virtual environment)
 ```
