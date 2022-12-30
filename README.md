@@ -1,6 +1,10 @@
-# Webapp_for_NITK_Chatbot
+## Webapp_for_NITK_Chatbot
 
-![Preview]()
+
+
+![Preview](https://github.com/FelixFelicis555/Webapp_for_Chatbot/blob/main/chatbot1.jpeg?raw=true)
+
+
 
 
 First, use pip to install requirements.txt (in your virtual environment)
